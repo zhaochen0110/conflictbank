@@ -2,9 +2,9 @@
 # **ConflictBank** 🏦
 ## 🎉 Overview
 
-Welcome to **ConflictBank🏦**, the first comprehensive benchmark for analyzing models' behavior by simulating knowledge conflicts encountered during pre-training and inference stages. This benchmark includes **7,453,853** claim-evidence pairs and **553,117** QA pairs, covering three main conflict causes: misinformation conflict, temporal conflict, and semantic conflict.
+Welcome to **ConflictBank 🏦**, the first comprehensive benchmark for analyzing models' behavior by simulating knowledge conflicts encountered during pre-training and inference stages. This benchmark includes **7,453,853** claim-evidence pairs and **553,117** QA pairs, covering three main conflict causes: misinformation conflict, temporal conflict, and semantic conflict.
 
-This repository includes scripts for downloading the ConflictBank datasets, as well as scripts for evaluating and training models on ConflictBank🏦.
+This repository includes scripts for downloading the ConflictBank datasets, as well as scripts for evaluating and training models on ConflictBank 🏦.
 
 ## ⚙️ **Installation**
 
