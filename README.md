@@ -159,7 +159,18 @@ We welcome contributions to ConflictBank! If you have any suggestions or improve
 
 This project is licensed under the CC BY-SA 4.0 license - see the LICENSE file for details.
 
-## ⭐ Acknowledgments
 
-We would like to thank all the contributors and the community for their valuable feedback and support.
+## **📖 Citation**
+
+Please cite our paper if you use our data, model or code. Please also kindly cite the original dataset papers. 
+
+```
+@article{su2024conflictbank,
+  title={Conflictbank: A benchmark for evaluating the influence of knowledge conflicts in llm},
+  author={Su, Zhaochen and Zhang, Jun and Qu, Xiaoye and Zhu, Tong and Li, Yanshu and Sun, Jiashuo and Li, Juntao and Zhang, Min and Cheng, Yu},
+  journal={arXiv preprint arXiv:2408.12076},
+  year={2024}
+}
+```
+
 
